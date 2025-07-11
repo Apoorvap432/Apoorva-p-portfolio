@@ -28,3 +28,8 @@ body {
   transform-origin: 70% 70%;
   display: inline-block;
 }
+
+.animatedText {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
